@@ -1,0 +1,3 @@
+---
+# Password for the heat user in the database
+heat_database_password: secret
